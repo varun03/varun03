@@ -1,7 +1,5 @@
 - 👋 Hi, i am varun 
-- 👀 I’m interested in learning new thing , play with code and computer
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on new technology 
+- 👀 I’m looking to collaborate on new technology 
 - 📫 How to reach me : You can connect me on My email varunk1503@gmail.com
 
 <!---
